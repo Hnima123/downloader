@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [arcface_weights](./arcface_weights)
+- [retinaface](./retinaface)
 
 ---
 
