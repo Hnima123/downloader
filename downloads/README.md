@@ -1,9 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [arcface_weights](./arcface_weights)
-- [details](./details)
-- [retinaface](./retinaface)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
